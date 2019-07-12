@@ -5,6 +5,7 @@
 
 - A dropbox account
 - Nice pictures to show
+- Nothing else
 
 ## Setup
 
